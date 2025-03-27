@@ -1,0 +1,22 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "form generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setterill/typescript-project-81.git"
+  },
+  "author": "setterill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setterill/typescript-project-81/issues"
+  },
+  "homepage": "https://github.com/setterill/typescript-project-81#readme",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
